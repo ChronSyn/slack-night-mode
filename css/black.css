@@ -835,7 +835,7 @@
   .reply_input_container .inline_message_input_container .ql-container.focus { border-color: rgba(0, 0, 0, 0.15); }
   .reply_input_container .inline_message_input_container .ql-container.focus ~ .emo_menu { color: #e6e6e6; }
   .reply_input_container .inline_message_input_container .ql-container ~ .emo_menu { color: #949494; }
-  .p-message_input_field.c-texty_input--multi_line.c-texty_input.ql-container .ql-editor { color: #666; }
+  .p-threads_footer__input .p-message_input_field.focus { color: #666; }
   #file_reply_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container, #reply_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container, .reply_input_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container { color: #949494; }
   #unread_msgs_scroller_div::after { background: transparent; }
   #unread_msgs_scroller_div.loading { background-image: none; }
