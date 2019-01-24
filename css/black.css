@@ -837,6 +837,7 @@
   .reply_input_container .inline_message_input_container .ql-container ~ .emo_menu { color: #949494; }
   .p-threads_footer__input .p-message_input_field.focus { color: #666; }
   .ql-editor { color: #666 !important }
+  .ql-container { color: #666 !important }
   #file_reply_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container, #reply_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container, .reply_input_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container { color: #949494; }
   #unread_msgs_scroller_div::after { background: transparent; }
   #unread_msgs_scroller_div.loading { background-image: none; }
